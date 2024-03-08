@@ -6,8 +6,7 @@ Welcome to the repository for the Strategic E-commerce Analytics Dashboard proje
 - Advanced Data Visualization: Utilized cutting-edge data visualization techniques in Power BI to transform raw data into meaningful and visually appealing insights.
 - Actionable Insights: The dashboard is designed to deliver actionable insights, facilitating informed decision-making for stakeholders at various levels.
 
-
-
+![E-commerce Analytics Dashboard](https://github.com/nibeditans/Strategic-E-commerce-Analytics-Dashboard/blob/main/Strategic%20E-commerce%20Analytics%20Dashboard.png?raw=true)
 
 ## Key Features
 - Interactive Dashboard: Navigate through the data seamlessly with an interactive and user-friendly dashboard.
