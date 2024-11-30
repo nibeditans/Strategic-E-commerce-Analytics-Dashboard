@@ -1,6 +1,8 @@
 # Strategic-E-commerce-Analytics-Dashboard
 Welcome to the repository for the Strategic E-commerce Analytics Dashboard project. This project focuses on the in-depth analysis of E-commerce Sales Data and aims to provide valuable insights through a dynamic and interactive dashboard created using Power BI. The goal is to empower decision-makers with actionable information to optimize business performance in the ever-evolving digital commerce landscape.
 
+Complete article with point by point explanations: [Strategic E-commerce Analytics Dashboard](https://nsworldinfo.medium.com/strategic-e-commerce-analytics-dashboard-39816c83e791)
+
 ## Project Highlights
 - Comprehensive Analysis: Conducted a thorough examination of E-commerce Sales Data to uncover trends, patterns, and key performance indicators.
 - Advanced Data Visualization: Utilized cutting-edge data visualization techniques in Power BI to transform raw data into meaningful and visually appealing insights.
